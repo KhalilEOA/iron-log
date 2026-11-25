@@ -1,0 +1,8 @@
+{
+  "name": "flashtickets",
+  "version": "1.0.0",
+  "description": "Self-hosted ticket bot (Ticket Tool alternative)",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "discord.js": "^14.16.3" }
+}
